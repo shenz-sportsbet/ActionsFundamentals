@@ -1,4 +1,4 @@
-name: Test
+name: Test Call Customised github action from my own account
 on: [workflow_dispatch]
 
 jobs:
